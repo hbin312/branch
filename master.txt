@@ -2,5 +2,5 @@ function(B){
 }
 function(A){
 }
-function(master){
+function(branch){
 }
