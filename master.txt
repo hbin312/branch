@@ -1,6 +1,6 @@
 function a(branch1){
 }
-function b(){
-}
 function c(){
+}
+function b(){
 }
