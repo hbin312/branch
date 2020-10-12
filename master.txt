@@ -1,6 +1,6 @@
-function(A){
-}
 function(B){
+}
+function(A){
 }
 function(master){
 }
